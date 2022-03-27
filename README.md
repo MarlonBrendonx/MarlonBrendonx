@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/MarlonBrendonx/MarlonBrendonx/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://github.com/MarlonBrendonx/MarlonBrendonx/tree/main/assets" alt="Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ### Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
