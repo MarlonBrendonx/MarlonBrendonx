@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/MarlonBrendonx/MarlonBrendonx/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ### Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -19,7 +19,7 @@ Things I like to do:
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Nano-informational?style=flat&logo=nano&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Editor-Nano-informational?style=flat&logo=nano&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 
 
