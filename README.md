@@ -4,9 +4,9 @@
 
 ### Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-*Graduating in Information Systems and Administration at UFU. I am a Backend  programmer and a student of DevOps Engineering . I have a great passion for Backend development, low level programming, open source, linux and everything that involves the world of binaries ❤️❤️*
+*Graduating in Information Systems at UFU. I am a Backend  programmer and a student of DevOps Engineering . I have a great passion for Backend development, low level programming, open source, linux and everything that involves the world of binaries ❤️❤️*
 
-*I don't want to believe, I want to know. - Carl Sagan
+:star: I don't want to believe, I want to know. - Carl Sagan
 
 Things I like to do:
 
@@ -19,7 +19,7 @@ Things I like to do:
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Editor-Nano-informational?style=flat&logo=nano&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)		![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)	![](https://img.shields.io/badge/Editor-Nano-informational?style=flat&logo=nano&logoColor=white&color=2bbc8a) 	![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 
 
@@ -29,6 +29,9 @@ About me:
 -   :seedling: Currently learning Python for Networking
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... **KISS**
+-   💡 Always helping and transmitting the knowledge acquired with humility
+-   📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/marlon-brendo-ramos-204763225/), [My E-mail](mailto:marlonbrendo2013@gmail.com?subject=Olá,%20vim%20do%20teu%20site)
+-   ⚡ Curiosity: I'm always looking to learn new ideas and technologies. Seeking excellence every day and approaching the state of the art as much as possible.
 
 
 
