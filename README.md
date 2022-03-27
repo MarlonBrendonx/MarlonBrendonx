@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-### Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 *Graduating in Information Systems at UFU. I am a Backend  programmer and a student of DevOps Engineering . I have a great passion for Backend development, low level programming, open source, linux and everything that involves the world of binaries ❤️❤️*
 
