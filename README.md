@@ -1,6 +1,6 @@
 
 
-<img src="assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px; height:400;" />
+<img src="assets/walpaper.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px; height:400;" />
 
 ## Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
