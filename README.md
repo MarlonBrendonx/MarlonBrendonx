@@ -26,7 +26,7 @@ Things I like to do:
 About me:
 
 -   Interested in everything **DevOps Engineer, Backend, Software Engineering and Information Security**
--   :seedling: Currently learning Next.js, Nodejs and React
+-   :seedling: Currently learning Spring Boot, Nodejs, React and Information Security
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... **KISS**
 -   💡 Always helping and transmitting the knowledge acquired with humility
