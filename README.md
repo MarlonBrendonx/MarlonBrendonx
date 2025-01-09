@@ -4,7 +4,7 @@
 
 ## Hi, I'm Marlon Brendo. Nice to meet you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-*Graduating in Information Systems at UFU. I am FullStack Programmer. I have a great passion for Backend development, low level programming, open source, linux and everything that involves the world of binaries ❤️❤️*
+*Graduate in Information Systems at UFU. I am a Full Stack programmer. I have a great passion for Backend development, low level programming, open source, linux and everything that involves the world of binaries. I'm always looking to learn new ideas and technologies. Seeking excellence every day and approaching the state of the art as much as possible ❤️❤️*
 
 :star: I don't want to believe, I want to know. - Carl Sagan
 
