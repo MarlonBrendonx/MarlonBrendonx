@@ -12,6 +12,7 @@ Things I like to do:
 
 - API(Application Programming Interface)
 - Scripts
+- Machine Learning
 - Applications
 - Backend development
 * Find out how things work :)
@@ -26,8 +27,7 @@ Things I like to do:
 
 About me:
 
--   Interested in everything **DevOps Engineer, Backend, Software Engineering and Information Security**
--   :seedling: Currently learning Spring Boot, Nodejs, React and Information Security
+-   Interested in everything **Backend, Software Engineering, Cybersecurity and Machine Learning**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... **KISS**
 -   💡 Always helping and transmitting the knowledge acquired with humility
