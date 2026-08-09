@@ -65,8 +65,9 @@ Information Systems graduate at **UFU** and Full Stack developer, with a strong 
 
 <p align="center">
   <a href="https://github.com/MarlonBrendonx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarlonBrendonx&theme=github_dark" alt="Repos per Language" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarlonBrendonx&theme=github_dark&utcOffset=-3" alt="Productive Time" width="49%" />
+    <p align="center">
+        <img src="assets/matrix_footer.gif" alt="Follow the white rabbit" width="100%" />
+    </p>
   </a>
 </p>
 
