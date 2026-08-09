@@ -2,11 +2,11 @@
   <img src="assets/follow_the_white_rabbit.gif" alt="Follow the white rabbit" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/MarlonBrendonx">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00FF41&center=true&vCenter=true&width=460&lines=Backend+Developer;Low-level+%26+Linux+enthusiast;Open+Source+%E2%9D%A4;Machine+Learning" alt="Typing intro" />
   </a>
-</p>
+</p> -->
 
 ## Hi, I'm Marlon Brendo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
