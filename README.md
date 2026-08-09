@@ -65,14 +65,20 @@ Information Systems graduate at **UFU** and Full Stack developer, with a strong 
 
 <p align="center">
   <a href="https://github.com/MarlonBrendonx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonBrendonx&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=e6fff0&icon_color=00ff41&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MarlonBrendonx&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=e6fff0&icon_color=2bbc8a&ring_color=00ff41&hide_border=true" alt="GitHub Stats" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarlonBrendonx&theme=github_dark" alt="Repos per Language" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarlonBrendonx&theme=github_dark" alt="Most Commit Language" width="49%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MarlonBrendonx">
     <img src="https://streak-stats.demolab.com?user=MarlonBrendonx&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=e6fff0&currStreakLabel=00ff41&sideNums=e6fff0&sideLabels=2bbc8a&dates=8b949e&stroke=0aa06e&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarlonBrendonx">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonBrendonx&bg_color=0d1117&color=c9cacc&line=00ff41&point=e6fff0&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
