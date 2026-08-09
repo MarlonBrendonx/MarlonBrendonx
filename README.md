@@ -25,12 +25,18 @@ Information Systems graduate at **UFU** and Full Stack developer, with a strong 
 
 **Languages**
 
+ 
 ![Python](https://img.shields.io/badge/Python-00ff41?style=flat&logo=python&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-00ff41?style=flat&logo=openjdk&logoColor=white&labelColor=0d1117)
 ![Go](https://img.shields.io/badge/Go-00ff41?style=flat&logo=go&logoColor=white&labelColor=0d1117)
+![C](https://img.shields.io/badge/C-00ff41?style=flat&logo=c&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=flat&logo=javascript&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=flat&logo=typescript&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-00ff41?style=flat&logo=postgresql&logoColor=white&labelColor=0d1117)
 ![Bash](https://img.shields.io/badge/Bash-00ff41?style=flat&logo=gnu-bash&logoColor=white&labelColor=0d1117)
 ![HTML](https://img.shields.io/badge/HTML-00ff41?style=flat&logo=html5&logoColor=white&labelColor=0d1117)
 ![CSS](https://img.shields.io/badge/CSS-00ff41?style=flat&logo=css3&logoColor=white&labelColor=0d1117)
+
 
 **Frameworks & Libraries**
 
