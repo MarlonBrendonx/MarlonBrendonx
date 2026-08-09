@@ -63,13 +63,6 @@ Information Systems graduate at **UFU** and Full Stack developer, with a strong 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MarlonBrendonx">
-    <p align="center">
-        <img src="assets/matrix_footer.gif" alt="Follow the white rabbit" width="100%" />
-    </p>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/MarlonBrendonx">
@@ -79,7 +72,9 @@ Information Systems graduate at **UFU** and Full Stack developer, with a strong 
 
 <p align="center">
   <a href="https://github.com/MarlonBrendonx">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonBrendonx&bg_color=0d1117&color=c9cacc&line=00ff41&point=e6fff0&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" width="100%" />
+    <p align="center">
+        <img src="assets/matrix_footer.gif" alt="Follow the white rabbit" width="100%" />
+    </p>
   </a>
 </p>
 
