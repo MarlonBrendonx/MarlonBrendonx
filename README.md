@@ -73,7 +73,3 @@ Information Systems graduate at **UFU** and Full Stack developer, with a strong 
     </p>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:00ff41,100:0d1117&section=footer" width="100%" alt="Matrix footer" />
-</p>
